@@ -1,0 +1,9 @@
+$sql_details = array(
+	"type" => "Mysql",
+	"user" => "u0348249_default",
+	"pass" => "Xc_eLg5r",
+	"host" => "127.0.0.1",
+	"port" => "",
+	"db"   => "u0348249_lftgt",
+	"dsn"  => "charset=utf8"
+);

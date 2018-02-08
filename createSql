@@ -1,0 +1,9 @@
+CREATE TABLE mskLiftGatesLatLon (
+    item int(4),
+    id	bigint(10),
+    lat	varchar(10),
+    lon	varchar(10),
+    code	varchar(20),
+    label	varchar(10),
+    work	varchar(10)
+);
